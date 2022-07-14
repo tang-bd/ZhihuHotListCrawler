@@ -1,0 +1,9 @@
+{
+    "info" : {
+        "host" : "localhost",
+        "user" : "tbd",
+        "password" : "Tang2003",
+        "charset" : "utf8mb4"
+    },
+    "database" : "zhihuhotlist"
+}
